@@ -8,4 +8,4 @@ LLVM é uma infraestrutura para compiladores: https://llvm.org/
 
 O CERN utiliza o Cling no ROOT: https://root.cern.ch/cling
 
-O LLVM tem mais de 120 contribuidores ativos, como NVidia, Apple, ARM, AMD, Qualcomm, e outros. Como referência, o FreeBSD, o OpenMandriva, o Firefox, e o Chrome utilizam o Clang.
+O LLVM tem mais de 120 contribuidores ativos incluindo NVidia, Apple, ARM, AMD, Qualcomm, e outros. Como referência, o FreeBSD, o OpenMandriva, o Firefox, e o Chrome utilizam o Clang.
