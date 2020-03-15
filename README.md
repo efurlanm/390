@@ -16,4 +16,4 @@ $ conda activate cling
 
 $ conda install -c conda-forge -v xeus-cling notebook
 
-O Cling fica disponível no menu do Jupyter Notebook, ao criar um novo *notebook* com *New*, é possível selecionar C++.
+O Cling fica disponível no menu do Jupyter Notebook. Ao criar um novo *notebook* com *New* é possível selecionar C++.
