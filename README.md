@@ -17,6 +17,6 @@ ROOT é um conjunto de ferramentas para processamento de *big data*, análise es
 
     $ conda create -n cling
     $ conda activate cling
-    $ conda install -c conda-forge -v xeus-cling notebook
+    $ conda install -c conda-forge xeus-cling notebook
 
 O Cling fica disponível no menu do Jupyter Notebook. Ao criar um novo *notebook* com *New*, é possível selecionar C++.
