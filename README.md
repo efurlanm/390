@@ -11,6 +11,8 @@ LLVM (https://llvm.org/) é uma infraestrutura para compiladores, com mais de 12
 
 CERN é a Organização Européia para a Pesquina Nuclear, maior laboratório de física de partículas do mundo, também conhecido pelo acelerador de partículas LHC.
 
+ROOT é um conjunto de ferramentas para processamento de *big data*, análise estatística, visualização, e armazenamento.
+
 ## Instalação
 
     $ conda create -n cling
