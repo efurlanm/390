@@ -1,4 +1,4 @@
-Os Jupyter Notebooks deste repositório usam o Xeus-Cling: https://github.com/jupyter-xeus/xeus-cling
+Os Jupyter Notebooks deste repositório utilizam o Xeus-Cling: https://github.com/jupyter-xeus/xeus-cling
 
 Cling é um interpretador interativo C++ que usa o Clang/LLVM: https://github.com/root-project/cling
 
