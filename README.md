@@ -9,6 +9,8 @@ Clang é um *front end* para C++ e outros: https://clang.llvm.org/.
 
 LLVM (https://llvm.org/) é uma infraestrutura para compiladores, com mais de 120 contribuidores ativos incluindo NVidia, Apple, ARM, AMD, Intel, Qualcomm, e outros. O projeto iniciou em 2000 na Universidade de Illinois em Urbana-Champaign. A Apple usa no SDK para o macOS e iOS. A Sony usa no SDK do PlayStation 4. O Clang é utilizado no FreeBSD, OpenMandriva, Firefox, e Chrome.
 
+CERN é a Organização Européia para a Pesquina Nuclear, maior laboratório de física de partículas do mundo, também conhecido pelo acelerador de partículas LHC.
+
 ## Instalação
 
     $ conda create -n cling
