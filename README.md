@@ -14,4 +14,4 @@ O LLVM tem mais de 120 contribuidores ativos incluindo NVidia, Apple, ARM, AMD, 
     $ conda activate cling
     $ conda install -c conda-forge -v xeus-cling notebook
 
-O Cling fica disponível no menu do Jupyter Notebook. Ao criar um novo *notebook* com *New* é possível selecionar C++.
+O Cling fica disponível no menu do Jupyter Notebook. Ao criar um novo *notebook* com *New*, é possível selecionar C++.
