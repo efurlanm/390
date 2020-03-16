@@ -20,3 +20,8 @@ An Introduction to Cling: https://gorepl.com/docs/cling.html
 
 Using cling to interpret C++ code: http://blog.coldflake.com/posts/On-the-fly-C++/
 
+cling http://llvm.org/devmtg/2010-11/Naumann-Cling.pdf
+
+ Cling Aims to Provide a High-performance C++ REPL: https://www.infoq.com/news/2015/05/cling-cpp-interpreter/
+ 
+ 
