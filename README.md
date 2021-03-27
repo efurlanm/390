@@ -1,3 +1,5 @@
+# My personal course repository
+
 The Jupyter Notebooks in this repository use Xeus-Cling
 
 * https://github.com/jupyter-xeus/xeus-cling.
