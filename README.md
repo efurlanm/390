@@ -1,22 +1,26 @@
-Os Jupyter Notebooks deste repositório utilizam o Xeus-Cling: https://github.com/jupyter-xeus/xeus-cling.
+The Jupyter Notebooks in this repository use Xeus-Cling
 
-Cling é um interpretador interativo C++ implementado como uma extensão do LLVM e do Clang, desenvolvido pelo CERN como parte do projeto ROOT:
+* https://github.com/jupyter-xeus/xeus-cling.
 
-- https://root.cern.ch/cling
-- https://github.com/root-project/cling
+Cling is an interactive C ++ interpreter implemented as an extension of LLVM and Clang, developed by CERN as part of the ROOT project
 
-Clang é um *front end* para C++ e outros: https://clang.llvm.org/.
+* https://root.cern.ch/cling
+* https://github.com/root-project/cling
 
-LLVM (https://llvm.org/) é uma infraestrutura para compiladores, com mais de 120 contribuidores ativos incluindo NVidia, Apple, ARM, AMD, Intel, Qualcomm, e outros. O projeto iniciou em 2000 na Universidade de Illinois em Urbana-Champaign. A Apple usa no SDK para o macOS e iOS. A Sony usa no SDK do PlayStation 4. O Clang é utilizado no FreeBSD, OpenMandriva, Firefox, e Chrome.
+Clang is a * front end * for C ++ and others
 
-CERN é a Organização Européia para a Pesquina Nuclear, maior laboratório de física de partículas do mundo, também conhecido pelo acelerador de partículas LHC.
+* https://clang.llvm.org/
 
-ROOT é um conjunto de ferramentas para processamento de *big data*, análise estatística, visualização, e armazenamento.
+LLVM (https://llvm.org/) is an infrastructure for compilers, with more than 120 active contributors including NVidia, Apple, ARM, AMD, Intel, Qualcomm, and others. The project started in 2000 at the University of Illinois at Urbana-Champaign. Apple uses in the SDK for macOS and iOS. Sony uses it in the PlayStation 4 SDK. LLVM Clang is used in FreeBSD, OpenMandriva, Firefox, and Chrome
 
-## Instalação
+CERN is the European Organization for Nuclear Research, the largest particle physics laboratory in the world, also known for the LHC particle accelerator
+
+ROOT is a set of tools for big data processing, statistical analysis, visualization, and storage.
+
+Installation
 
     $ conda create -n cling
     $ conda activate cling
     $ conda install -c conda-forge xeus-cling notebook
 
-O Cling fica disponível no menu do Jupyter Notebook. Ao criar um novo *notebook* com *New*, é possível selecionar C++.
+Cling becomes available in the Jupyter Notebook menu. When creating a new notepad with New, you can select C++
