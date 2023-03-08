@@ -1,4 +1,4 @@
-# My personal course repository
+# My personal repository and course notes
 
 The Jupyter Notebooks in this repository use Xeus-Cling
 
