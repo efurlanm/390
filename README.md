@@ -1,4 +1,6 @@
-# My personal repository and course notes
+# Fundamentals of Structured Programming (CAP 390)
+
+My personal notes from the course and assignments.
 
 The Jupyter Notebooks in this repository use Xeus-Cling
 
